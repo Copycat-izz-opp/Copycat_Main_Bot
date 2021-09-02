@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "Copycatẞø†",
+  "description": "Copycat ẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/f8df934fc7420b5e98493.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -13,15 +13,15 @@
   ],
   "repository": "https://github.com/The-HellBot/HellBot/",
   "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "success_url": "https://t.me/Lovers_Match",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is Cat",
+      "value": "『Cat』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in Copycat Bot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
+      "description": "Fill your private Channel id",
       "value": "",
       "required": false
     },
@@ -55,7 +55,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "🔸"
+      "value": "⚡"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
@@ -74,7 +74,7 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
+      "description": "Create a private channel. Value should start with -100",
       "value": ""
     },
     "HELLBOT_SESSION": {
