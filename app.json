@@ -77,7 +77,7 @@
       "description": "Create a private channel. Value should start with -100",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "COPYCAT_BOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your Copycat Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your Copycat Alive.",
       "value": "",
       "required": false
     },
