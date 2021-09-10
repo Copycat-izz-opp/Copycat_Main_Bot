@@ -29,6 +29,6 @@
 
 
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Copycat-izz-opp/Copycat_Main_Bot)
+- [![Deploy](https://telegra.ph/file/24c8975bacbb4da13cf06.jpg)(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Copycat-izz-opp/Copycat_Main_Bot)
 
 
