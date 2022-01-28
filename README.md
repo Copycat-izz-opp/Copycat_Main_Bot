@@ -39,4 +39,4 @@
 
 
 
-- [![String](https://te.legra.ph/file/16dabe05b4b6b48b628a0.jpg)](https://replit.com/@TotalGaming3/COPYCAT#main.py)
+- [![String](https://te.legra.ph/file/16dabe05b4b6b48b628a0.jpg)](https://replit.com/@TotalGaming3/COPYCAT?v=1)
