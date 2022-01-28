@@ -34,4 +34,4 @@
 
 ##FOR GETTING STRING SESSION
 
-- [![String]
+- [![String](https://replit.com/@TotalGaming3/COPYCAT#main.py)
