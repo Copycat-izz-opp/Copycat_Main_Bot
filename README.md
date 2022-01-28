@@ -32,3 +32,6 @@
 - [![Deploy](https://telegra.ph/file/24c8975bacbb4da13cf06.jpg)](https://heroku.com/deploy?template=https://github.com/Copycat-izz-opp/Copycat_Main_Bot)
 
 
+##FOR GETTING STRING SESSION
+
+- [![String]
