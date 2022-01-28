@@ -27,11 +27,16 @@
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 
-
+### CLICK ON THE BANNER SHOWN BELOW TO DEPLOY
 
 - [![Deploy](https://telegra.ph/file/24c8975bacbb4da13cf06.jpg)](https://heroku.com/deploy?template=https://github.com/Copycat-izz-opp/Copycat_Main_Bot)
 
 
 ##FOR GETTING STRING SESSION
+
+
+### CLICK ON THE BANNER SHOWN BELOW TO GET STRING SESSION FOR YOUR ACCOUNT
+
+
 
 - [![String](https://te.legra.ph/file/16dabe05b4b6b48b628a0.jpg)](https://replit.com/@TotalGaming3/COPYCAT#main.py)
